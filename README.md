@@ -1,6 +1,6 @@
 # LiveAlive Health Check Service 🚀
 
-A health check service that pings your Supabase projects once a day to prevent automatic shutdown. Users add URLs by domain. When searching for a domain on the main screen, all URLs belonging to that domain and their 7-day uptime history are displayed.
+A health check service that pings your web projects once a day to prevent automatic shutdown. Users add URLs by domain. When searching for a domain on the main screen, all URLs belonging to that domain and their 7-day uptime history are displayed.
 
 ## 🎯 Features
 
